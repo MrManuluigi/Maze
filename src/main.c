@@ -10,7 +10,7 @@
  */
 
 /**
- * @author Luigi Dechanteloup <luigi.dechanteloup@ecole.ensicaen.fr>
+ * @author Luigi 
  * @version     0.0.1 - 7-10-2017
  *
  * @todo the list of improvements suggested for the file.
