@@ -1,0 +1,8 @@
+PROJECT_NAME = "Maze"
+OUTPUT_DIRECTORY = ./doc
+INPUT = ./src/main.c ./src/maze.c ./include/Structure.h ./include/maze.h
+FILE_PATTERNS = *.h *.c
+EXCLUDE = makefile
+GENERATE_HTML = YES
+GENERATE_LATEX = NO
+GENERATE_RTF = NO
